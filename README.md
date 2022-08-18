@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/charlessiloy/testproject/_apis/build/status/thelegendofaang.js-e2e-express-server?branchName=main)](https://dev.azure.com/charlessiloy/testproject/_build/latest?definitionId=2&branchName=main)
+
 ---
 page_type: sample
 languages:
